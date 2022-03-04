@@ -2,7 +2,7 @@
   "name": "krypt",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Shibumishra.github.io/web3.0-Builtin",
+  "homepage": "https://Shibumishra.github.io/web3.0-Builtin-deploy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
